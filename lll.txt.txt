@@ -5,5 +5,4 @@ to do list
 
 
 shopping 
-movie
-party
+haircut
